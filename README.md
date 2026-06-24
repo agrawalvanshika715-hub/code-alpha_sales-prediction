@@ -1,1 +1,2 @@
-# code-alpha_sales-prediction
+# CodeAlpha_SalesPrediction
+Sales Prediction using Python - CodeAlpha Internship
